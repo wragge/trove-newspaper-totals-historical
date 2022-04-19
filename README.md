@@ -12,11 +12,13 @@ This repository contains past harvests of the number of digitised newspaper arti
 * 27 April 2021
 * 21 January 2022
 
-It's possible I might find additional harvests and add them here in the future.
+It's possible I might find additional harvests and add them to the repository in the future.
 
  Since April 2022, datasets have been automatically created every week and saved in [this repository](https://github.com/wragge/trove-newspaper-totals).
 
 ## Dataset details
+
+The [trove-totals-package.yaml](trove-totals-package.yaml) file contains a description of all the datasets using the Frictionless Data standard.
 
 Datasets are saved in the `data` directory as CSV files. There are two types of harvest – one captures the total number of articles per year, while the other breaks the totals down by year and state. The harvest date is embedded in the file title (in `YYYYMMDD` format).
 
