@@ -1,0 +1,503 @@
+{
+  "profile": "data-package",
+  "title": "Trove Newspaper Totals",
+  "description": "Harvests of the number of digitised newspaper articles available from Trove.",
+  "licences": [
+    {
+      "name": "CC-0",
+      "title": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/total_articles_by_state_and_year_20110412.csv",
+      "name": "total_articles_by_state_and_year_20110412",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20110804.csv",
+      "name": "total_articles_by_state_and_year_20110804",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20140206.csv",
+      "name": "total_articles_by_state_and_year_20140206",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20140912.csv",
+      "name": "total_articles_by_state_and_year_20140912",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20141007.csv",
+      "name": "total_articles_by_state_and_year_20141007",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20141208.csv",
+      "name": "total_articles_by_state_and_year_20141208",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20151129.csv",
+      "name": "total_articles_by_state_and_year_20151129",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20161214.csv",
+      "name": "total_articles_by_state_and_year_20161214",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20190728.csv",
+      "name": "total_articles_by_state_and_year_20190728",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20200710.csv",
+      "name": "total_articles_by_state_and_year_20200710",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20210427.csv",
+      "name": "total_articles_by_state_and_year_20210427",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_state_and_year_20220121.csv",
+      "name": "total_articles_by_state_and_year_20220121",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "string",
+            "name": "state"
+          },
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_20110412.csv",
+      "name": "total_articles_by_year_20110412",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_20110804.csv",
+      "name": "total_articles_by_year_20110804",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_20140912.csv",
+      "name": "total_articles_by_year_20140912",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_20151129.csv",
+      "name": "total_articles_by_year_20151129",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_20161214.csv",
+      "name": "total_articles_by_year_20161214",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_20190728.csv",
+      "name": "total_articles_by_year_20190728",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_20200710.csv",
+      "name": "total_articles_by_year_20200710",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_20210427.csv",
+      "name": "total_articles_by_year_20210427",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/total_articles_by_year_20220121.csv",
+      "name": "total_articles_by_year_20220121",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "year"
+          },
+          {
+            "type": "integer",
+            "name": "total"
+          }
+        ]
+      }
+    }
+  ]
+}
