@@ -1,12 +1,13 @@
 {
-  "profile": "data-package",
-  "title": "Trove Newspaper Totals",
+  "profile": "tabular-data-package",
+  "title": "Trove newspaper totals (historical)",
+  "name": "trove-newspaper-totals-historical",
   "description": "Harvests of the number of digitised newspaper articles available from Trove.",
   "licences": [
     {
       "name": "CC-0",
       "title": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
-      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+      "uri": "https://creativecommons.org/publicdomain/zero/1.0/"
     }
   ],
   "resources": [
