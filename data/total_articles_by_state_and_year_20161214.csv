@@ -1,0 +1,1145 @@
+state,year,total
+National,1840,768
+National,1933,6540
+National,1934,11280
+National,1935,11895
+National,1936,12304
+National,1937,10646
+National,1938,10268
+National,1939,10081
+National,1940,8642
+National,1941,6770
+National,1942,4722
+National,1943,3951
+National,1944,4527
+National,1945,5215
+National,1946,5764
+National,1947,6276
+National,1948,4991
+National,1949,7080
+National,1950,8577
+National,1951,7589
+National,1952,7170
+National,1953,7272
+National,1954,8106
+National,1955,8463
+National,1956,8763
+National,1957,8100
+National,1958,8150
+National,1959,8412
+National,1960,7830
+National,1961,8348
+National,1962,8457
+National,1963,8000
+National,1964,8165
+National,1965,8128
+National,1966,7971
+National,1967,7535
+National,1968,9047
+National,1969,9193
+National,1970,8924
+National,1971,8239
+National,1972,7919
+National,1973,7541
+National,1974,7291
+National,1975,7392
+National,1976,6684
+National,1977,6972
+National,1978,7523
+National,1979,7615
+National,1980,8484
+National,1981,8732
+National,1982,7509
+Victoria,1838,263
+Victoria,1839,2091
+Victoria,1840,2516
+Victoria,1841,4829
+Victoria,1842,5635
+Victoria,1843,5400
+Victoria,1844,4823
+Victoria,1845,9531
+Victoria,1846,11948
+Victoria,1847,12101
+Victoria,1848,12098
+Victoria,1849,14780
+Victoria,1850,17772
+Victoria,1851,18956
+Victoria,1852,10915
+Victoria,1853,17045
+Victoria,1854,25416
+Victoria,1855,39242
+Victoria,1856,41948
+Victoria,1857,51849
+Victoria,1858,51290
+Victoria,1859,62673
+Victoria,1860,63489
+Victoria,1861,61899
+Victoria,1862,62672
+Victoria,1863,69644
+Victoria,1864,73462
+Victoria,1865,84442
+Victoria,1866,85489
+Victoria,1867,93981
+Victoria,1868,92097
+Victoria,1869,92448
+Victoria,1870,106801
+Victoria,1871,106758
+Victoria,1872,104919
+Victoria,1873,123703
+Victoria,1874,121484
+Victoria,1875,135398
+Victoria,1876,135669
+Victoria,1877,144296
+Victoria,1878,157294
+Victoria,1879,163196
+Victoria,1880,161441
+Victoria,1881,159142
+Victoria,1882,212585
+Victoria,1883,219199
+Victoria,1884,231442
+Victoria,1885,225526
+Victoria,1886,249031
+Victoria,1887,284989
+Victoria,1888,285909
+Victoria,1889,280713
+Victoria,1890,297237
+Victoria,1891,321575
+Victoria,1892,319802
+Victoria,1893,324406
+Victoria,1894,336651
+Victoria,1895,345339
+Victoria,1896,336910
+Victoria,1897,343986
+Victoria,1898,370571
+Victoria,1899,387601
+Victoria,1900,415603
+Victoria,1901,454748
+Victoria,1902,475949
+Victoria,1903,482058
+Victoria,1904,507530
+Victoria,1905,516869
+Victoria,1906,534243
+Victoria,1907,545219
+Victoria,1908,565903
+Victoria,1909,589781
+Victoria,1910,626826
+Victoria,1911,592490
+Victoria,1912,619272
+Victoria,1913,590458
+Victoria,1914,1157617
+Victoria,1915,1215235
+Victoria,1916,1081339
+Victoria,1917,1007660
+Victoria,1918,960909
+Victoria,1919,340374
+Victoria,1920,315372
+Victoria,1921,311101
+Victoria,1922,347354
+Victoria,1923,368868
+Victoria,1924,411603
+Victoria,1925,391369
+Victoria,1926,378182
+Victoria,1927,397629
+Victoria,1928,419056
+Victoria,1929,385280
+Victoria,1930,369486
+Victoria,1931,338007
+Victoria,1932,334566
+Victoria,1933,359709
+Victoria,1934,410172
+Victoria,1935,414507
+Victoria,1936,417392
+Victoria,1937,415162
+Victoria,1938,415950
+Victoria,1939,386369
+Victoria,1940,316790
+Victoria,1941,276831
+Victoria,1942,206847
+Victoria,1943,174160
+Victoria,1944,191459
+Victoria,1945,196601
+Victoria,1946,250344
+Victoria,1947,252174
+Victoria,1948,203182
+Victoria,1949,254314
+Victoria,1950,262067
+Victoria,1951,246212
+Victoria,1952,244824
+Victoria,1953,251386
+Victoria,1954,259185
+Victoria,1955,71860
+Victoria,1956,66758
+Victoria,1957,3259
+Victoria,1964,41
+Victoria,1965,332
+Victoria,1976,39
+Victoria,1977,261
+Victoria,1992,332
+Victoria,2007,429
+Western Australia,1833,568
+Western Australia,1834,599
+Western Australia,1835,512
+Western Australia,1836,555
+Western Australia,1837,743
+Western Australia,1838,460
+Western Australia,1839,443
+Western Australia,1840,656
+Western Australia,1841,1294
+Western Australia,1842,1299
+Western Australia,1843,1293
+Western Australia,1844,1244
+Western Australia,1845,1257
+Western Australia,1846,1378
+Western Australia,1847,1317
+Western Australia,1848,1458
+Western Australia,1849,1464
+Western Australia,1850,1769
+Western Australia,1851,1716
+Western Australia,1852,1936
+Western Australia,1853,1554
+Western Australia,1854,1853
+Western Australia,1855,2203
+Western Australia,1856,2116
+Western Australia,1857,1775
+Western Australia,1858,1591
+Western Australia,1859,1659
+Western Australia,1860,1766
+Western Australia,1861,1649
+Western Australia,1862,1409
+Western Australia,1863,1708
+Western Australia,1864,2285
+Western Australia,1865,1785
+Western Australia,1866,1710
+Western Australia,1867,3096
+Western Australia,1868,3268
+Western Australia,1869,3174
+Western Australia,1870,3469
+Western Australia,1871,3295
+Western Australia,1872,3374
+Western Australia,1873,3252
+Western Australia,1874,3279
+Western Australia,1875,4328
+Western Australia,1876,4006
+Western Australia,1877,4756
+Western Australia,1878,6104
+Western Australia,1879,6524
+Western Australia,1880,6857
+Western Australia,1881,6840
+Western Australia,1882,8562
+Western Australia,1883,11483
+Western Australia,1884,12651
+Western Australia,1885,23782
+Western Australia,1886,27848
+Western Australia,1887,29764
+Western Australia,1888,36106
+Western Australia,1889,37801
+Western Australia,1890,38276
+Western Australia,1891,45255
+Western Australia,1892,51799
+Western Australia,1893,59497
+Western Australia,1894,66429
+Western Australia,1895,71436
+Western Australia,1896,108624
+Western Australia,1897,140355
+Western Australia,1898,181852
+Western Australia,1899,184746
+Western Australia,1900,193255
+Western Australia,1901,187229
+Western Australia,1902,187508
+Western Australia,1903,226146
+Western Australia,1904,271709
+Western Australia,1905,297956
+Western Australia,1906,294803
+Western Australia,1907,291631
+Western Australia,1908,302859
+Western Australia,1909,304506
+Western Australia,1910,331240
+Western Australia,1911,353845
+Western Australia,1912,353788
+Western Australia,1913,354524
+Western Australia,1914,398052
+Western Australia,1915,375521
+Western Australia,1916,331509
+Western Australia,1917,329243
+Western Australia,1918,319877
+Western Australia,1919,292296
+Western Australia,1920,290606
+Western Australia,1921,275905
+Western Australia,1922,267691
+Western Australia,1923,297551
+Western Australia,1924,311233
+Western Australia,1925,314144
+Western Australia,1926,313087
+Western Australia,1927,321339
+Western Australia,1928,360497
+Western Australia,1929,393417
+Western Australia,1930,357460
+Western Australia,1931,331971
+Western Australia,1932,340042
+Western Australia,1933,350209
+Western Australia,1934,348526
+Western Australia,1935,378290
+Western Australia,1936,376570
+Western Australia,1937,377149
+Western Australia,1938,353401
+Western Australia,1939,321036
+Western Australia,1940,267208
+Western Australia,1941,265456
+Western Australia,1942,195331
+Western Australia,1943,175140
+Western Australia,1944,183796
+Western Australia,1945,208742
+Western Australia,1946,253978
+Western Australia,1947,274862
+Western Australia,1948,284246
+Western Australia,1949,283290
+Western Australia,1950,263919
+Western Australia,1951,129368
+Western Australia,1952,136803
+Western Australia,1953,142975
+Western Australia,1954,138909
+Western Australia,1955,20235
+Western Australia,1956,8395
+Western Australia,1957,4555
+Western Australia,1958,4661
+Western Australia,1959,4949
+Western Australia,1960,4409
+Western Australia,1961,3077
+Western Australia,1962,4139
+Western Australia,1963,8225
+Western Australia,1964,4142
+Western Australia,1965,2726
+Western Australia,1966,2753
+Western Australia,1967,2512
+Western Australia,1968,2362
+Western Australia,1969,2862
+Western Australia,1970,2830
+Western Australia,1971,2860
+Western Australia,1972,2711
+Western Australia,1973,3877
+Western Australia,1974,3964
+Western Australia,1975,3597
+Western Australia,1976,3400
+Western Australia,1977,3122
+Western Australia,1978,2639
+Western Australia,1979,2909
+Western Australia,1980,721
+ACT,1924,7
+ACT,1925,457
+ACT,1926,4506
+ACT,1927,12071
+ACT,1928,27646
+ACT,1929,28485
+ACT,1930,28393
+ACT,1931,25582
+ACT,1932,24668
+ACT,1933,23362
+ACT,1934,23425
+ACT,1935,21861
+ACT,1936,20446
+ACT,1937,23521
+ACT,1938,22398
+ACT,1939,25782
+ACT,1940,25021
+ACT,1941,23440
+ACT,1942,24680
+ACT,1943,23392
+ACT,1944,22386
+ACT,1945,24117
+ACT,1946,28498
+ACT,1947,30053
+ACT,1948,30702
+ACT,1949,28692
+ACT,1950,26609
+ACT,1951,26228
+ACT,1952,27242
+ACT,1953,26697
+ACT,1954,22901
+ACT,1955,22341
+ACT,1956,26211
+ACT,1957,29905
+ACT,1958,33856
+ACT,1959,34475
+ACT,1960,34189
+ACT,1961,37946
+ACT,1962,41999
+ACT,1963,53669
+ACT,1964,60285
+ACT,1965,65102
+ACT,1966,64315
+ACT,1967,63222
+ACT,1968,64259
+ACT,1969,65826
+ACT,1970,64189
+ACT,1971,66765
+ACT,1972,61694
+ACT,1973,59528
+ACT,1974,61443
+ACT,1975,58575
+ACT,1976,60360
+ACT,1977,62319
+ACT,1978,68391
+ACT,1979,75396
+ACT,1980,73349
+ACT,1981,73070
+ACT,1982,76880
+ACT,1983,82952
+ACT,1984,74120
+ACT,1985,78702
+ACT,1986,77160
+ACT,1987,74870
+ACT,1988,83171
+ACT,1989,82512
+ACT,1990,81543
+ACT,1991,85022
+ACT,1992,82242
+ACT,1993,81020
+ACT,1994,78559
+ACT,1995,80121
+ACT,1996,839
+ACT,1997,838
+ACT,1998,770
+ACT,1999,99
+ACT,2001,129
+ACT,2002,667
+ACT,2003,742
+ACT,2004,675
+ACT,2005,478
+ACT,2006,398
+ACT,2007,271
+Queensland,1846,310
+Queensland,1847,624
+Queensland,1848,811
+Queensland,1849,700
+Queensland,1850,779
+Queensland,1851,740
+Queensland,1852,715
+Queensland,1853,822
+Queensland,1854,804
+Queensland,1855,895
+Queensland,1856,2112
+Queensland,1857,2388
+Queensland,1858,4275
+Queensland,1859,5078
+Queensland,1860,7234
+Queensland,1861,13132
+Queensland,1862,17974
+Queensland,1863,19610
+Queensland,1864,22071
+Queensland,1865,24302
+Queensland,1866,28638
+Queensland,1867,35223
+Queensland,1868,39306
+Queensland,1869,37581
+Queensland,1870,40684
+Queensland,1871,35728
+Queensland,1872,39249
+Queensland,1873,48738
+Queensland,1874,49875
+Queensland,1875,58421
+Queensland,1876,65835
+Queensland,1877,69280
+Queensland,1878,75286
+Queensland,1879,83615
+Queensland,1880,82045
+Queensland,1881,87899
+Queensland,1882,92085
+Queensland,1883,96933
+Queensland,1884,104544
+Queensland,1885,110749
+Queensland,1886,132185
+Queensland,1887,134578
+Queensland,1888,164587
+Queensland,1889,169190
+Queensland,1890,183578
+Queensland,1891,188634
+Queensland,1892,208918
+Queensland,1893,201456
+Queensland,1894,202219
+Queensland,1895,229645
+Queensland,1896,253552
+Queensland,1897,235730
+Queensland,1898,241731
+Queensland,1899,253627
+Queensland,1900,345662
+Queensland,1901,393366
+Queensland,1902,394458
+Queensland,1903,353542
+Queensland,1904,433825
+Queensland,1905,417432
+Queensland,1906,383040
+Queensland,1907,452134
+Queensland,1908,525360
+Queensland,1909,522956
+Queensland,1910,556815
+Queensland,1911,571252
+Queensland,1912,607763
+Queensland,1913,697061
+Queensland,1914,701940
+Queensland,1915,725086
+Queensland,1916,668027
+Queensland,1917,713330
+Queensland,1918,670491
+Queensland,1919,706643
+Queensland,1920,601642
+Queensland,1921,658150
+Queensland,1922,701067
+Queensland,1923,771301
+Queensland,1924,868143
+Queensland,1925,871930
+Queensland,1926,888074
+Queensland,1927,831196
+Queensland,1928,830744
+Queensland,1929,935758
+Queensland,1930,936307
+Queensland,1931,882317
+Queensland,1932,862586
+Queensland,1933,912122
+Queensland,1934,903382
+Queensland,1935,913393
+Queensland,1936,939834
+Queensland,1937,930281
+Queensland,1938,923462
+Queensland,1939,902258
+Queensland,1940,726869
+Queensland,1941,598044
+Queensland,1942,477276
+Queensland,1943,374263
+Queensland,1944,381628
+Queensland,1945,430962
+Queensland,1946,498795
+Queensland,1947,518437
+Queensland,1948,460835
+Queensland,1949,520893
+Queensland,1950,530151
+Queensland,1951,514571
+Queensland,1952,521166
+Queensland,1953,546517
+Queensland,1954,535216
+Queensland,1955,30474
+Queensland,1956,13089
+Tasmania,1810,5
+Tasmania,1812,7
+Tasmania,1814,38
+Tasmania,1816,159
+Tasmania,1817,383
+Tasmania,1818,460
+Tasmania,1819,435
+Tasmania,1820,460
+Tasmania,1821,268
+Tasmania,1822,212
+Tasmania,1823,204
+Tasmania,1824,436
+Tasmania,1825,1211
+Tasmania,1826,1338
+Tasmania,1827,1129
+Tasmania,1828,546
+Tasmania,1829,1815
+Tasmania,1830,1595
+Tasmania,1831,1837
+Tasmania,1832,2301
+Tasmania,1833,3781
+Tasmania,1834,4732
+Tasmania,1835,5835
+Tasmania,1836,4689
+Tasmania,1837,4730
+Tasmania,1838,5470
+Tasmania,1839,5752
+Tasmania,1840,7258
+Tasmania,1841,8092
+Tasmania,1842,10990
+Tasmania,1843,11744
+Tasmania,1844,11360
+Tasmania,1845,15451
+Tasmania,1846,14235
+Tasmania,1847,12474
+Tasmania,1848,13412
+Tasmania,1849,13386
+Tasmania,1850,13541
+Tasmania,1851,14244
+Tasmania,1852,13250
+Tasmania,1853,16951
+Tasmania,1854,19945
+Tasmania,1855,27294
+Tasmania,1856,27888
+Tasmania,1857,22781
+Tasmania,1858,22370
+Tasmania,1859,19097
+Tasmania,1860,16322
+Tasmania,1861,18873
+Tasmania,1862,22391
+Tasmania,1863,20141
+Tasmania,1864,17654
+Tasmania,1865,18849
+Tasmania,1866,28583
+Tasmania,1867,18086
+Tasmania,1868,17415
+Tasmania,1869,19184
+Tasmania,1870,20887
+Tasmania,1871,20983
+Tasmania,1872,23012
+Tasmania,1873,26443
+Tasmania,1874,28526
+Tasmania,1875,31681
+Tasmania,1876,32618
+Tasmania,1877,33505
+Tasmania,1878,47872
+Tasmania,1879,44394
+Tasmania,1880,33908
+Tasmania,1881,35425
+Tasmania,1882,39092
+Tasmania,1883,43545
+Tasmania,1884,65323
+Tasmania,1885,68488
+Tasmania,1886,66589
+Tasmania,1887,73317
+Tasmania,1888,93192
+Tasmania,1889,101823
+Tasmania,1890,109776
+Tasmania,1891,117312
+Tasmania,1892,127014
+Tasmania,1893,131779
+Tasmania,1894,123133
+Tasmania,1895,123763
+Tasmania,1896,124754
+Tasmania,1897,135951
+Tasmania,1898,148902
+Tasmania,1899,180553
+Tasmania,1900,194820
+Tasmania,1901,185228
+Tasmania,1902,158619
+Tasmania,1903,186395
+Tasmania,1904,187306
+Tasmania,1905,235298
+Tasmania,1906,243201
+Tasmania,1907,230757
+Tasmania,1908,277202
+Tasmania,1909,284325
+Tasmania,1910,313229
+Tasmania,1911,312111
+Tasmania,1912,312324
+Tasmania,1913,271946
+Tasmania,1914,256475
+Tasmania,1915,298426
+Tasmania,1916,297808
+Tasmania,1917,286243
+Tasmania,1918,276876
+Tasmania,1919,277470
+Tasmania,1920,265932
+Tasmania,1921,289718
+Tasmania,1922,301465
+Tasmania,1923,318698
+Tasmania,1924,342702
+Tasmania,1925,261008
+Tasmania,1926,244579
+Tasmania,1927,223595
+Tasmania,1928,200560
+Tasmania,1929,208589
+Tasmania,1930,170364
+Tasmania,1931,169635
+Tasmania,1932,180733
+Tasmania,1933,187266
+Tasmania,1934,221337
+Tasmania,1935,192434
+Tasmania,1936,209013
+Tasmania,1937,226390
+Tasmania,1938,228757
+Tasmania,1939,224763
+Tasmania,1940,200717
+Tasmania,1941,178011
+Tasmania,1942,150816
+Tasmania,1943,134957
+Tasmania,1944,137423
+Tasmania,1945,181603
+Tasmania,1946,177960
+Tasmania,1947,188319
+Tasmania,1948,153045
+Tasmania,1949,194528
+Tasmania,1950,191069
+Tasmania,1951,173255
+Tasmania,1952,176293
+Tasmania,1953,179636
+Tasmania,1954,183150
+Tasmania,1955,1499
+Tasmania,1980,448
+Tasmania,1981,653
+Tasmania,1982,902
+Tasmania,1983,809
+Tasmania,1984,981
+Tasmania,1985,1023
+Tasmania,1986,995
+Tasmania,1987,1024
+Tasmania,1988,1118
+Tasmania,1989,1183
+Tasmania,1990,1367
+Tasmania,1991,1200
+Tasmania,1992,1012
+Tasmania,1993,1394
+Tasmania,1994,1403
+Tasmania,1995,1229
+Tasmania,1996,1492
+Tasmania,1997,1686
+Tasmania,1998,1419
+Tasmania,1999,1009
+Tasmania,2000,1309
+Tasmania,2001,928
+Tasmania,2002,759
+Tasmania,2003,779
+Tasmania,2004,57
+Northern Territory,1869,56
+Northern Territory,1873,191
+Northern Territory,1874,1409
+Northern Territory,1875,1009
+Northern Territory,1876,925
+Northern Territory,1877,923
+Northern Territory,1878,1270
+Northern Territory,1879,1245
+Northern Territory,1880,1346
+Northern Territory,1881,1389
+Northern Territory,1882,1560
+Northern Territory,1883,2224
+Northern Territory,1884,3827
+Northern Territory,1885,3482
+Northern Territory,1886,2920
+Northern Territory,1887,3395
+Northern Territory,1888,3326
+Northern Territory,1889,3115
+Northern Territory,1890,2396
+Northern Territory,1891,2509
+Northern Territory,1892,2624
+Northern Territory,1893,2681
+Northern Territory,1894,2623
+Northern Territory,1895,2565
+Northern Territory,1896,2490
+Northern Territory,1897,2710
+Northern Territory,1898,2759
+Northern Territory,1899,3038
+Northern Territory,1900,1952
+Northern Territory,1901,2041
+Northern Territory,1902,2136
+Northern Territory,1903,1967
+Northern Territory,1904,1927
+Northern Territory,1905,1903
+Northern Territory,1906,1707
+Northern Territory,1907,2147
+Northern Territory,1908,1910
+Northern Territory,1909,1165
+Northern Territory,1910,1161
+Northern Territory,1911,1510
+Northern Territory,1912,1340
+Northern Territory,1913,2527
+Northern Territory,1914,3497
+Northern Territory,1915,3955
+Northern Territory,1916,3532
+Northern Territory,1917,4268
+Northern Territory,1918,6320
+Northern Territory,1919,6325
+Northern Territory,1920,5101
+Northern Territory,1921,10540
+Northern Territory,1922,8064
+Northern Territory,1923,7906
+Northern Territory,1924,7776
+Northern Territory,1925,7582
+Northern Territory,1926,6829
+Northern Territory,1927,9170
+Northern Territory,1928,10375
+Northern Territory,1929,10258
+Northern Territory,1930,10320
+Northern Territory,1931,11302
+Northern Territory,1932,9111
+Northern Territory,1933,6565
+Northern Territory,1934,7336
+Northern Territory,1935,7506
+Northern Territory,1936,8610
+Northern Territory,1937,7504
+Northern Territory,1938,7260
+Northern Territory,1939,8055
+Northern Territory,1940,6551
+Northern Territory,1941,6534
+Northern Territory,1942,4634
+Northern Territory,1943,9842
+Northern Territory,1944,20643
+Northern Territory,1945,22097
+Northern Territory,1946,1942
+Northern Territory,1947,6137
+Northern Territory,1948,7786
+Northern Territory,1949,8623
+Northern Territory,1950,6936
+Northern Territory,1951,7835
+Northern Territory,1952,7070
+Northern Territory,1953,6354
+Northern Territory,1954,5569
+Northern Territory,1955,413
+South Australia,1836,19
+South Australia,1837,125
+South Australia,1838,1015
+South Australia,1839,1636
+South Australia,1840,3659
+South Australia,1841,3974
+South Australia,1842,3390
+South Australia,1843,6436
+South Australia,1844,7850
+South Australia,1845,8891
+South Australia,1846,9465
+South Australia,1847,9904
+South Australia,1848,9577
+South Australia,1849,11248
+South Australia,1850,22771
+South Australia,1851,25675
+South Australia,1852,15281
+South Australia,1853,17953
+South Australia,1854,24602
+South Australia,1855,35103
+South Australia,1856,33976
+South Australia,1857,31327
+South Australia,1858,33345
+South Australia,1859,42799
+South Australia,1860,42050
+South Australia,1861,44562
+South Australia,1862,42311
+South Australia,1863,43197
+South Australia,1864,50986
+South Australia,1865,52193
+South Australia,1866,53305
+South Australia,1867,55096
+South Australia,1868,58303
+South Australia,1869,66646
+South Australia,1870,71086
+South Australia,1871,73097
+South Australia,1872,74128
+South Australia,1873,78685
+South Australia,1874,82925
+South Australia,1875,85114
+South Australia,1876,87154
+South Australia,1877,91390
+South Australia,1878,105697
+South Australia,1879,111067
+South Australia,1880,121268
+South Australia,1881,137112
+South Australia,1882,143993
+South Australia,1883,150659
+South Australia,1884,163277
+South Australia,1885,175266
+South Australia,1886,179057
+South Australia,1887,179549
+South Australia,1888,177060
+South Australia,1889,189085
+South Australia,1890,201194
+South Australia,1891,203200
+South Australia,1892,204945
+South Australia,1893,207843
+South Australia,1894,206596
+South Australia,1895,212112
+South Australia,1896,216157
+South Australia,1897,214783
+South Australia,1898,231977
+South Australia,1899,239932
+South Australia,1900,244630
+South Australia,1901,260425
+South Australia,1902,261711
+South Australia,1903,276575
+South Australia,1904,263232
+South Australia,1905,272050
+South Australia,1906,291137
+South Australia,1907,300755
+South Australia,1908,317099
+South Australia,1909,323562
+South Australia,1910,396556
+South Australia,1911,404995
+South Australia,1912,430719
+South Australia,1913,427467
+South Australia,1914,480703
+South Australia,1915,462991
+South Australia,1916,440058
+South Australia,1917,422266
+South Australia,1918,393125
+South Australia,1919,385743
+South Australia,1920,373371
+South Australia,1921,398529
+South Australia,1922,431708
+South Australia,1923,470077
+South Australia,1924,465200
+South Australia,1925,466584
+South Australia,1926,446831
+South Australia,1927,454497
+South Australia,1928,491018
+South Australia,1929,477429
+South Australia,1930,435128
+South Australia,1931,320499
+South Australia,1932,305223
+South Australia,1933,310133
+South Australia,1934,319565
+South Australia,1935,326745
+South Australia,1936,338956
+South Australia,1937,337558
+South Australia,1938,344622
+South Australia,1939,332631
+South Australia,1940,305581
+South Australia,1941,267715
+South Australia,1942,207671
+South Australia,1943,180116
+South Australia,1944,182906
+South Australia,1945,195651
+South Australia,1946,223709
+South Australia,1947,240710
+South Australia,1948,223179
+South Australia,1949,249880
+South Australia,1950,275444
+South Australia,1951,234837
+South Australia,1952,244500
+South Australia,1953,260965
+South Australia,1954,272725
+South Australia,1955,5454
+South Australia,1956,2440
+South Australia,1957,2259
+South Australia,1958,2615
+South Australia,1959,2582
+South Australia,1960,2394
+South Australia,1961,2436
+South Australia,1962,2383
+South Australia,1963,2363
+South Australia,1964,2622
+South Australia,1965,2559
+South Australia,1966,2539
+South Australia,1967,2610
+South Australia,1968,2606
+South Australia,1969,2824
+South Australia,1970,2693
+South Australia,1971,2724
+South Australia,1972,2561
+South Australia,1973,2732
+South Australia,1974,2930
+South Australia,1975,3191
+South Australia,1976,3749
+South Australia,1977,3873
+South Australia,1978,4065
+South Australia,1979,5965
+South Australia,1980,6804
+South Australia,1981,6796
+South Australia,1982,6736
+South Australia,1983,7050
+South Australia,1984,7907
+South Australia,1985,9773
+South Australia,1986,9655
+South Australia,1987,11128
+South Australia,1988,12044
+South Australia,1989,11985
+South Australia,1990,11460
+South Australia,1991,11594
+South Australia,1992,11910
+South Australia,1993,12973
+South Australia,1994,12952
+South Australia,1995,11334
+South Australia,1996,8267
+South Australia,1997,8768
+South Australia,1998,9255
+South Australia,1999,10057
+New South Wales,1803,526
+New South Wales,1804,619
+New South Wales,1805,430
+New South Wales,1806,367
+New South Wales,1807,134
+New South Wales,1808,155
+New South Wales,1809,237
+New South Wales,1810,269
+New South Wales,1811,228
+New South Wales,1812,208
+New South Wales,1813,234
+New South Wales,1814,201
+New South Wales,1815,226
+New South Wales,1816,485
+New South Wales,1817,685
+New South Wales,1818,789
+New South Wales,1819,717
+New South Wales,1820,815
+New South Wales,1821,739
+New South Wales,1822,821
+New South Wales,1823,957
+New South Wales,1824,1212
+New South Wales,1825,2157
+New South Wales,1826,3863
+New South Wales,1827,5033
+New South Wales,1828,5055
+New South Wales,1829,6505
+New South Wales,1830,5706
+New South Wales,1831,6686
+New South Wales,1832,9997
+New South Wales,1833,10383
+New South Wales,1834,12766
+New South Wales,1835,15136
+New South Wales,1836,16611
+New South Wales,1837,16404
+New South Wales,1838,18534
+New South Wales,1839,21992
+New South Wales,1840,26638
+New South Wales,1841,29371
+New South Wales,1842,30494
+New South Wales,1843,27744
+New South Wales,1844,31932
+New South Wales,1845,30052
+New South Wales,1846,25347
+New South Wales,1847,27710
+New South Wales,1848,25219
+New South Wales,1849,21801
+New South Wales,1850,23445
+New South Wales,1851,35442
+New South Wales,1852,37916
+New South Wales,1853,39074
+New South Wales,1854,43895
+New South Wales,1855,52127
+New South Wales,1856,59177
+New South Wales,1857,62317
+New South Wales,1858,58201
+New South Wales,1859,63157
+New South Wales,1860,75637
+New South Wales,1861,76141
+New South Wales,1862,73269
+New South Wales,1863,73783
+New South Wales,1864,78212
+New South Wales,1865,80453
+New South Wales,1866,83824
+New South Wales,1867,81029
+New South Wales,1868,81755
+New South Wales,1869,91542
+New South Wales,1870,108152
+New South Wales,1871,107097
+New South Wales,1872,120434
+New South Wales,1873,122998
+New South Wales,1874,132384
+New South Wales,1875,127602
+New South Wales,1876,134073
+New South Wales,1877,140393
+New South Wales,1878,156305
+New South Wales,1879,178259
+New South Wales,1880,185134
+New South Wales,1881,191826
+New South Wales,1882,198555
+New South Wales,1883,204382
+New South Wales,1884,228516
+New South Wales,1885,254042
+New South Wales,1886,277261
+New South Wales,1887,268585
+New South Wales,1888,321787
+New South Wales,1889,382318
+New South Wales,1890,425125
+New South Wales,1891,447473
+New South Wales,1892,469325
+New South Wales,1893,469750
+New South Wales,1894,483477
+New South Wales,1895,536054
+New South Wales,1896,572341
+New South Wales,1897,566717
+New South Wales,1898,655729
+New South Wales,1899,777524
+New South Wales,1900,845574
+New South Wales,1901,868250
+New South Wales,1902,889842
+New South Wales,1903,892904
+New South Wales,1904,932586
+New South Wales,1905,948282
+New South Wales,1906,977203
+New South Wales,1907,1040845
+New South Wales,1908,988504
+New South Wales,1909,1025090
+New South Wales,1910,1058325
+New South Wales,1911,1210730
+New South Wales,1912,1281871
+New South Wales,1913,1306995
+New South Wales,1914,1372517
+New South Wales,1915,1386552
+New South Wales,1916,1308820
+New South Wales,1917,1226405
+New South Wales,1918,1148524
+New South Wales,1919,1191548
+New South Wales,1920,1093362
+New South Wales,1921,1110315
+New South Wales,1922,1111808
+New South Wales,1923,1178548
+New South Wales,1924,1215404
+New South Wales,1925,1235174
+New South Wales,1926,1235963
+New South Wales,1927,1287419
+New South Wales,1928,1316040
+New South Wales,1929,1403310
+New South Wales,1930,1381104
+New South Wales,1931,1254167
+New South Wales,1932,1240393
+New South Wales,1933,1283088
+New South Wales,1934,1315472
+New South Wales,1935,1367976
+New South Wales,1936,1382945
+New South Wales,1937,1380281
+New South Wales,1938,1382854
+New South Wales,1939,1281246
+New South Wales,1940,1076315
+New South Wales,1941,990314
+New South Wales,1942,805720
+New South Wales,1943,734311
+New South Wales,1944,739347
+New South Wales,1945,782960
+New South Wales,1946,877265
+New South Wales,1947,894967
+New South Wales,1948,824650
+New South Wales,1949,867632
+New South Wales,1950,905913
+New South Wales,1951,868069
+New South Wales,1952,869994
+New South Wales,1953,915061
+New South Wales,1954,939144
+New South Wales,1955,72157
+New South Wales,1956,39702
+New South Wales,1957,50551
+New South Wales,1958,52555
+New South Wales,1959,48160
+New South Wales,1960,44831
+New South Wales,1961,40317
+New South Wales,1962,37196
+New South Wales,1963,31189
+New South Wales,1964,29506
+New South Wales,1965,30325
+New South Wales,1966,29855
+New South Wales,1967,30324
+New South Wales,1968,30048
+New South Wales,1969,28766
+New South Wales,1970,29596
+New South Wales,1971,25834
+New South Wales,1972,27068
+New South Wales,1973,26026
+New South Wales,1974,25558
+New South Wales,1975,25647
+New South Wales,1976,25142
+New South Wales,1977,25470
+New South Wales,1978,23663
+New South Wales,1979,23574
+New South Wales,1980,24199
+New South Wales,1981,23497
+New South Wales,1982,22458
+New South Wales,1983,22123
+New South Wales,1984,22093
+New South Wales,1985,21872
+New South Wales,1986,22552
+New South Wales,1987,24244
+New South Wales,1988,23869
+New South Wales,1989,24081
+New South Wales,1990,24092
+New South Wales,1991,23881
+New South Wales,1992,21701
+New South Wales,1993,20013
+New South Wales,1994,17771
+New South Wales,1995,16481
+New South Wales,1996,16947
+New South Wales,1997,16852
+New South Wales,1998,15801
+New South Wales,1999,16169
+New South Wales,2000,16856
+New South Wales,2001,7868
+New South Wales,2002,7378
+New South Wales,2003,6806
+New South Wales,2004,5629
+New South Wales,2005,1626
+New South Wales,2006,986
+New South Wales,2007,943
+New South Wales,2008,1075
+New South Wales,2009,730
+New South Wales,2010,599
+New South Wales,2011,251
