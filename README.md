@@ -1,6 +1,8 @@
 # Trove newspaper totals (historical)
 
-[![Frictionless](https://github.com/wragge/trove-newspaper-totals-historical/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=wragge&repo=trove-newspaper-totals-historical&flow=frictionless) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6470479.svg)](https://doi.org/10.5281/zenodo.6470479)
+[![Frictionless](https://github.com/wragge/trove-newspaper-totals-historical/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=wragge&repo=trove-newspaper-totals-historical&flow=frictionless) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6471544.svg)](https://doi.org/10.5281/zenodo.6471544)
+
+
 
 This repository contains past harvests of the number of digitised newspaper articles available through [Trove](https://trove.nla.gov.au/). These harvests were created between 2011 and 2022:
 
